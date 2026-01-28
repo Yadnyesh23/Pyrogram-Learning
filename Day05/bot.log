@@ -1,0 +1,39 @@
+2026-01-28 16:56:00,591 | INFO | Connecting...
+2026-01-28 16:56:00,671 | INFO | Connected! Production DC5 - IPv4
+2026-01-28 16:56:00,672 | INFO | NetworkTask started
+2026-01-28 16:56:00,932 | INFO | Session initialized: Layer 201
+2026-01-28 16:56:00,932 | INFO | Device: CPython 3.13.5 - Pyrogram 2.2.0
+2026-01-28 16:56:00,933 | INFO | System: Windows 11 (en)
+2026-01-28 16:56:00,933 | INFO | Session started
+2026-01-28 16:56:00,935 | INFO | PingTask started
+2026-01-28 16:56:01,137 | INFO | Started 16 HandlerTasks
+2026-01-28 16:56:33,822 | INFO | Stop signal received (SIGINT). Exiting...
+2026-01-28 16:56:33,832 | INFO | Stopped 16 HandlerTasks
+2026-01-28 16:56:33,833 | INFO | PingTask stopped
+2026-01-28 16:56:33,833 | INFO | NetworkTask stopped
+2026-01-28 16:56:33,834 | INFO | Disconnected
+2026-01-28 16:56:33,834 | INFO | Session stopped
+2026-01-28 16:56:42,693 | INFO | Connecting...
+2026-01-28 16:56:42,775 | INFO | Connected! Production DC5 - IPv4
+2026-01-28 16:56:42,776 | INFO | NetworkTask started
+2026-01-28 16:56:43,117 | INFO | Session initialized: Layer 201
+2026-01-28 16:56:43,117 | INFO | Device: CPython 3.13.5 - Pyrogram 2.2.0
+2026-01-28 16:56:43,118 | INFO | System: Windows 11 (en)
+2026-01-28 16:56:43,118 | INFO | Session started
+2026-01-28 16:56:43,121 | INFO | PingTask started
+2026-01-28 16:56:43,317 | INFO | Started 16 HandlerTasks
+2026-01-28 17:11:20,918 | INFO | Stop signal received (SIGINT). Exiting...
+2026-01-28 17:11:20,929 | INFO | Stopped 16 HandlerTasks
+2026-01-28 17:11:20,929 | INFO | PingTask stopped
+2026-01-28 17:11:20,930 | INFO | NetworkTask stopped
+2026-01-28 17:11:20,930 | INFO | Disconnected
+2026-01-28 17:11:20,931 | INFO | Session stopped
+2026-01-28 17:13:08,676 | INFO | Connecting...
+2026-01-28 17:13:08,855 | INFO | Connected! Production DC5 - IPv4
+2026-01-28 17:13:08,856 | INFO | NetworkTask started
+2026-01-28 17:13:09,603 | INFO | Session initialized: Layer 201
+2026-01-28 17:13:09,603 | INFO | Device: CPython 3.13.5 - Pyrogram 2.2.0
+2026-01-28 17:13:09,604 | INFO | System: Windows 11 (en)
+2026-01-28 17:13:09,604 | INFO | Session started
+2026-01-28 17:13:09,607 | INFO | PingTask started
+2026-01-28 17:13:09,994 | INFO | Started 16 HandlerTasks
